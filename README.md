@@ -48,7 +48,7 @@ Building intelligent web applications with modern technologies and solving real-
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css"/>
+<img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css"/>
 </p>
 
 ### Frontend
