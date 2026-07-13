@@ -1,99 +1,107 @@
-<h1 align="center">Hi 👋, I'm Keshov Dhanuka</h1>
-<h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • Competitive Programmer
-</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent web applications with modern technologies and solving real-world problems using AI and Data Structures & Algorithms.
+# 👋 Hi, I'm Keshav Dhanuka
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Hackathon+Builder;Building+Real+World+Projects"/>
+
+<p>
+
+<a href="https://github.com/keshavdhanuka098">
+<img src="https://img.shields.io/github/followers/keshavdhanuka098?label=Followers&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=keshavdhanuka098&style=for-the-badge&color=blue"/>
+
 </p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 IT Undergraduate
-- 💻 Passionate about Full Stack Development & AI/ML
-- 🧠 Solving DSA problems regularly
-- 🏆 Hackathon Enthusiast
-- 🌱 Currently learning
-  - Advanced React & Next.js
-  - Machine Learning
-  - System Design
-  - Advanced DSA
-- 🎯 Goal: Software Engineer / AI Engineer at a top product company
+```cpp
+class KeshavDhanuka {
+
+public:
+
+    string Role = "Full Stack Developer";
+
+    vector<string> Interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "System Design",
+        "Competitive Programming",
+        "Backend Development"
+    };
+
+    vector<string> CurrentlyLearning = {
+        "Next.js",
+        "Advanced React",
+        "Machine Learning",
+        "DSA",
+        "System Design"
+    };
+
+    string Goal =
+    "Build products used by millions of people.";
+
+};
+```
 
 ---
 
-## 🌐 Connect with Me
+# 🚀 Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/keshov-dhanuka-439844355/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+## Languages
 
-<a href="mailto:keshavdhanuka74@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<p>
 
-<a href="https://www.instagram.com/keshav_dhanuka___/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts"/>
 
 </p>
 
----
-
-# 💻 Tech Stack
-
-### Languages
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,html,css"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+
 </p>
 
-### Frontend
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
-</p>
 
-### Backend
-
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
 </p>
 
-### Tools
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,vscode,postman"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,postman,vscode"/>
+
 </p>
 
-### AI / Data Science
+## AI & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-NumPy • Pandas • Machine Learning
+NumPy • Pandas • Machine Learning • Data Analysis
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-⭐ CareerPath AI
-
-⭐ NutriFlow AI
-
-⭐ AI Spend Auditor
-
-⭐ Stock Market Simulator
-
-⭐ Business OS
-
-⭐ TravelMind AI
-
-⭐ RoyalThrottle
+| Project | Description |
+|----------|-------------|
+| 🤖 CareerPath AI | AI-powered career recommendation platform |
+| 💰 AI Spend Auditor | AI financial analytics dashboard |
+| 🥗 NutriFlow AI | Smart nutrition and health platform |
+| 📈 Stock Market Simulator | Virtual trading platform with analytics |
+| 💼 Business OS | Business management platform |
+| ✈️ TravelMind AI | AI-powered travel assistant |
+| 🏍 RoyalThrottle | Premium Royal Enfield showroom website |
 
 ---
 
@@ -101,9 +109,9 @@ NumPy • Pandas • Machine Learning
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keshavdhanuka098&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keshavdhanuka098&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdhanuka098&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdhanuka098&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -115,26 +123,60 @@ NumPy • Pandas • Machine Learning
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=keshavdhanuka098&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavdhanuka098&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🏆 GitHub Trophies
 
-[![Keshav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keshavdhanuka098&theme=tokyo-night)](https://github.com/keshavdhanuka098)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=keshavdhanuka098&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
 
-## 💡 Quote
-
-> "Code. Build. Learn. Repeat."
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=keshavdhanuka098&style=for-the-badge&color=blueviolet)
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:keshavdhanuka74@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/keshov-dhanuka-439844355/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="https://www.instagram.com/keshav_dhanuka___/">
+
+<img src="https://skillicons.dev/icons?i=instagram"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Great software isn't written by chance. It's built through curiosity, consistency, and continuous learning."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
