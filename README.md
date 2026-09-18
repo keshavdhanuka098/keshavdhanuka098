@@ -2,17 +2,21 @@
 
 # 👋 Hi, I'm Keshav Dhanuka
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Hackathon+Builder;Building+Real+World+Projects"/>
+### Full Stack Developer • AI & ML Enthusiast • DSA Learner • Hackathon Builder
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Backend+Development;Hackathon+Builder;Building+Real+World+Projects"/>
+
+<br>
 
 <a href="https://github.com/keshavdhanuka098">
-<img src="https://img.shields.io/github/followers/keshavdhanuka098?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/keshavdhanuka098?label=Followers&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=keshavdhanuka098&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=keshavdhanuka098&label=Profile%20Views&style=for-the-badge&color=blue"/>
 
-</p>
+<a href="https://github.com/keshavdhanuka098?tab=repositories">
+<img src="https://img.shields.io/github/stars/keshavdhanuka098?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -25,158 +29,33 @@ class KeshavDhanuka {
 
 public:
 
-    string Role = "Full Stack Developer";
+    string name = "Keshav Dhanuka";
 
-    vector<string> Interests = {
+    string role = "Full Stack Developer";
+
+    string education = "B.Tech Information Technology";
+
+    vector<string> interests = {
+        "Software Engineering",
         "Artificial Intelligence",
         "Machine Learning",
+        "Backend Development",
         "System Design",
-        "Competitive Programming",
-        "Backend Development"
+        "Data Structures & Algorithms",
+        "Competitive Programming"
     };
 
-    vector<string> CurrentlyLearning = {
-        "Next.js",
+    vector<string> currentlyLearning = {
         "Advanced React",
+        "Next.js",
+        "TypeScript",
         "Machine Learning",
         "DSA",
-        "System Design"
+        "System Design",
+        "Cloud & DevOps"
     };
 
-    string Goal =
-    "Build products used by millions of people.";
+    string goal =
+        "Build scalable products that solve real-world problems.";
 
 };
-```
-
----
-
-# 🚀 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,postman,vscode"/>
-
-</p>
-
-## AI & Data
-
-NumPy • Pandas • Machine Learning • Data Analysis
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 CareerPath AI | AI-powered career recommendation platform |
-| 💰 AI Spend Auditor | AI financial analytics dashboard |
-| 🥗 NutriFlow AI | Smart nutrition and health platform |
-| 📈 Stock Market Simulator | Virtual trading platform with analytics |
-| 💼 Business OS | Business management platform |
-| ✈️ TravelMind AI | AI-powered travel assistant |
-| 🏍 RoyalThrottle | Premium Royal Enfield showroom website |
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keshavdhanuka098&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdhanuka098&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=keshavdhanuka098&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavdhanuka098&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keshavdhanuka098&theme=tokyonight&margin-w=15&margin-h=15&column=4&no-frame=true"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:keshavdhanuka74@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/keshov-dhanuka-439844355/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="https://www.instagram.com/keshav_dhanuka___/">
-
-<img src="https://skillicons.dev/icons?i=instagram"/>
-
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Great software isn't written by chance. It's built through curiosity, consistency, and continuous learning."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
