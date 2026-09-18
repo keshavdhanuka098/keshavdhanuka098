@@ -59,3 +59,14 @@ public:
         "Build scalable products that solve real-world problems.";
 
 };
+🚀 What I Do
+💻 Build modern full-stack web applications
+⚛️ Develop responsive and interactive React applications
+🛠️ Build backend systems and REST APIs
+🗄️ Design and work with relational and NoSQL databases
+📊 Create data-driven dashboards and analytics applications
+🤖 Explore Artificial Intelligence and Machine Learning
+🧠 Practice Data Structures & Algorithms
+🏆 Participate in hackathons and technical competitions
+☁️ Deploy applications to modern cloud platforms
+🔧 Continuously learn new technologies and engineering practices
